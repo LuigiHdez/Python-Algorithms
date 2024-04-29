@@ -4,4 +4,4 @@ Este repositorio contiene algoritmos en Python, cada uno en su propio archivo pa
 
 ## Algoritmos incluidos
 
-- **random:** Este código en Python define una clase llamada Aleatorio, que genera números aleatorios utilizando el algoritmo de generador de números pseudoaleatorios (GNP) conocido como "Linear Congruential Generator" (LCG). 
+- **random:** Este código en Python define una clase llamada random, que genera números aleatorios utilizando el algoritmo de generador de números pseudoaleatorios (GNP) conocido como "Linear Congruential Generator" (LCG). 
